@@ -1,7 +1,9 @@
 # Physically-based Simulation of Wall Destruction
 
 ## Authors
-Stefan J., Thierry B., Adrian T.
+- Stefan J. [@sjokic](https://github.com/sjokic)
+- Thierry B. [@lyinch](https://github.com/lyinch)
+- Adrian T.
 
 ## Demo
 ![](https://github.com/sjokic/WallDestruction/blob/main/wall-destruction.gif?raw=true)
