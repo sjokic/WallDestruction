@@ -1,13 +1,15 @@
-# Physically-based Simulation in Computer Graphics HS2020 - Project Group 8 
+# Physically-based Simulation of Wall Destruction
+
+## Authors
+- Stefan J. [@sjokic](https://github.com/sjokic)
+- Thierry B. [@lyinch](https://github.com/lyinch)
+- Adrian T.
 
 ## Instructions
 Depending on the cmake setup, the data path to the obj files might be wrong. This can be adjusted in the `init` function
 in `RigidBodySim.h`. By default, the (piecewise) wall and a ball will be loaded. In addition, the different
 frames can be saved by uncommenting the first chunk in the `advance` function in `RigidBodySim`. We wrote a blender
-script `blender_export_script.py` to merge the individual objects per frame into a multi-object file. The final
-scene was rendered with Blender 2.83 and Luxcore and is in the file `scene_test.blend`.
-
-The project is based on the PBS framework and the build and install instructions are identical.
+script `blender_export_script.py` to merge the individual objects per frame into a multi-object file.
 
 ## Installation
 
