@@ -1,0 +1,2 @@
+C:\Users\Stefan\Documents\git\pbs20-wall\glad\Debug\glad.pdb
+C:\Users\Stefan\Documents\git\pbs20-wall\glad\glad.dir\Debug\glad.pdb

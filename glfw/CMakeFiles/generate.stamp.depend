@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Stefan/Documents/git/pbs20-wall/libigl/external/glfw/CMake/modules/FindVulkan.cmake
+C:/Users/Stefan/Documents/git/pbs20-wall/libigl/external/glfw/CMakeLists.txt
+C:/Users/Stefan/Documents/git/pbs20-wall/libigl/external/glfw/src/glfw3.pc.in
+C:/Users/Stefan/Documents/git/pbs20-wall/libigl/external/glfw/src/glfw3Config.cmake.in
+C:/Users/Stefan/Documents/git/pbs20-wall/libigl/external/glfw/src/glfw_config.h.in

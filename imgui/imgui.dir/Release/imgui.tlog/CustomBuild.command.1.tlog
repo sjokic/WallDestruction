@@ -1,0 +1,10 @@
+^C:\USERS\STEFAN\DOCUMENTS\GIT\PBS20-WALL\LIBIGL\EXTERNAL\LIBIGL-IMGUI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Stefan/Documents/git/pbs20-wall -BC:/Users/Stefan/Documents/git/pbs20-wall --check-stamp-file C:/Users/Stefan/Documents/git/pbs20-wall/imgui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
