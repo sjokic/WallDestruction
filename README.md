@@ -1,9 +1,11 @@
 # Physically-based Simulation of Wall Destruction
 
 ## Authors
-- Stefan J. [@sjokic](https://github.com/sjokic)
-- Thierry B. [@lyinch](https://github.com/lyinch)
-- Adrian T.
+Stefan J., Thierry B., Adrian T.
+
+## Demo
+![](https://github.com/sjokic/WallDestruction/blob/main/wall-destruction.gif?raw=true)
+[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=wi1qvkXI1Ag)
 
 ## Instructions
 Depending on the cmake setup, the data path to the obj files might be wrong. This can be adjusted in the `init` function
