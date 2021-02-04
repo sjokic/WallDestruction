@@ -1,4 +1,7 @@
-# Physically-based Simulation in Computer Graphics HS2020 - Project Group 8 
+# Physically-based Simulation of Wall Destruction
+
+## Authors
+Stefan J., Thierry B., Adrian T.
 
 ## Instructions
 Depending on the cmake setup, the data path to the obj files might be wrong. This can be adjusted in the `init` function
