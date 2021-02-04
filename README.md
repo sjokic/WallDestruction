@@ -10,7 +10,7 @@
 [Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=wi1qvkXI1Ag)
 
 ## Instructions
-Depending on the cmake setup, the data path to the obj files might be wrong. This can be adjusted in the `init` function
+Depending on the cmake setup, the data path to the obj files might incorrect. This can be adjusted in the `init` function
 in `RigidBodySim.h`. By default, the (piecewise) wall and a ball will be loaded. In addition, the simulation can be recorded by uncommenting the first chunk in the `advance` function in `RigidBodySim`. This is done by saving each mesh present in the scene into an .obj file every few simulation steps during the recording. We wrote a blender
 script `blender_export_script.py` to merge the individual objects per frame into a multi-object file.
 
