@@ -38,7 +38,7 @@ sudo apt-get install build-essential libx11-dev mesa-common-dev libgl1-mesa-dev 
 ### Building
 
 ```
-cd pbs20-wall; mkdir build
+cd WallDestruction; mkdir build
 cd build
 cmake ..
 ```
